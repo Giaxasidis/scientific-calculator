@@ -18,7 +18,7 @@ Features comprehensive mathematical capabilities with an intuitive, modern inter
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kaloudasdev/scientific-calculator
+git clone https://github.com/Giaxasidis/scientific-calculator
 ```
 
 2. **Open the application**
@@ -32,7 +32,7 @@ git clone https://github.com/kaloudasdev/scientific-calculator
 
 ## Live Preview
 
-[View Live Demo](https://kaloudasdev.github.io/scientific-calculator)
+[View Live Demo](https://Giaxasidis.github.io/scientific-calculator)
 
 ## Technical Specifications
 
@@ -75,19 +75,7 @@ scientific-calculator/
 The application is built with modern web standards and requires no build process for production use.  
 TypeScript source is provided for development and customization.
 
-## Contact
-
-- **Email**: kaloudasdev@gmail.com
-- **GitHub**: [KaloudasDev](https://github.com/KaloudasDev)
-- **Discord**: kaloudasdev
-
 ## Contributing
 
 Professional contributions are welcome.  
 Please ensure code quality matches existing standards and includes appropriate error handling.
-
----
-
-<br>
-
-![Scientific Calculator Interface](https://i.imgur.com/Ai6tIBm.png)
